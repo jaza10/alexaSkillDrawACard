@@ -2,7 +2,7 @@
 This is a skill to teach Amazon Alexa to draw a random card from a regular deck. 
 
 Invocation:
-Alexa, open draw a card \n
+Alexa, open draw a card
 Alexa, start draw a card
 Alexa, load draw a card
 
