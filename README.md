@@ -8,3 +8,5 @@ Alexa, load draw a card
 
 Answer:
 "Here's your card: 7 Hearts"
+
+Currently reviewed for publishing.
