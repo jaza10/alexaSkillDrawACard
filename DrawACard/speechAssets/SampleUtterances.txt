@@ -1,0 +1,3 @@
+GetNewCardIntent draw a card
+GetNewCardIntent draw a new card
+GetNewCardIntent card please
